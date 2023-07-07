@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jButton1" min="-2" pref="222" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jButton2" min="-2" pref="226" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jComboBox1" max="32767" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="jComboBox3" max="32767" attributes="0"/>
+                                      <Component id="jTextField1" alignment="0" pref="360" max="32767" attributes="0"/>
+                                      <Component id="jPasswordField1" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jTextField2" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jTextField3" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jComboBox2" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jComboBox4" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="44" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jPasswordField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton2" pref="42" max="32767" attributes="0"/>
+                  <Component id="jButton1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="66" red="66" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="210" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" pref="55" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Andalus" size="36" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Register"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Username:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Password:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JPasswordField" name="jPasswordField1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Name:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mobile No:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField3">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Role:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value="&lt;--Select--&gt;"/>
+            <StringItem index="1" value="Data Owner"/>
+            <StringItem index="2" value="Data User"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Register"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Age:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="District:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="37">
+            <StringItem index="0" value="Ahmednagar"/>
+            <StringItem index="1" value="Akola"/>
+            <StringItem index="2" value="Amravati"/>
+            <StringItem index="3" value="Aurangabad"/>
+            <StringItem index="4" value="Beed"/>
+            <StringItem index="5" value="Bhandara"/>
+            <StringItem index="6" value="Buldhana"/>
+            <StringItem index="7" value="Chandrapur"/>
+            <StringItem index="8" value="Dhule"/>
+            <StringItem index="9" value="Gadchiroli"/>
+            <StringItem index="10" value="Gondia"/>
+            <StringItem index="11" value="Hingoli"/>
+            <StringItem index="12" value="Jalgaon"/>
+            <StringItem index="13" value="Jalna"/>
+            <StringItem index="14" value="Kolhapur"/>
+            <StringItem index="15" value="Latur"/>
+            <StringItem index="16" value="Mumbai City"/>
+            <StringItem index="17" value="Mumbai Suburban"/>
+            <StringItem index="18" value="Nagpur"/>
+            <StringItem index="19" value="Nanded"/>
+            <StringItem index="20" value="Nandurbar"/>
+            <StringItem index="21" value="Nashik"/>
+            <StringItem index="22" value="Osmanabad"/>
+            <StringItem index="23" value="Palghar"/>
+            <StringItem index="24" value="Parbhani"/>
+            <StringItem index="25" value="Pune"/>
+            <StringItem index="26" value="Raigad"/>
+            <StringItem index="27" value="Ratnagiri"/>
+            <StringItem index="28" value="Sangli"/>
+            <StringItem index="29" value="Satara"/>
+            <StringItem index="30" value="Sindhudurg"/>
+            <StringItem index="31" value="Solapur"/>
+            <StringItem index="32" value="Thane"/>
+            <StringItem index="33" value="Wardha"/>
+            <StringItem index="34" value="Washim"/>
+            <StringItem index="35" value="Yavatmal"/>
+            <StringItem index="36" value=""/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Qualification:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox3">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="BSc"/>
+            <StringItem index="1" value="BCom"/>
+            <StringItem index="2" value="BBA"/>
+            <StringItem index="3" value="BCA"/>
+            <StringItem index="4" value="BE"/>
+            <StringItem index="5" value="MSc"/>
+            <StringItem index="6" value="MCom"/>
+            <StringItem index="7" value="MBA"/>
+            <StringItem index="8" value="MCA"/>
+            <StringItem index="9" value="ME"/>
+            <StringItem index="10" value="MPhil"/>
+            <StringItem index="11" value="Phd"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox4">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="83">
+            <StringItem index="0" value="18"/>
+            <StringItem index="1" value="19"/>
+            <StringItem index="2" value="20"/>
+            <StringItem index="3" value="21"/>
+            <StringItem index="4" value="22"/>
+            <StringItem index="5" value="23"/>
+            <StringItem index="6" value="24"/>
+            <StringItem index="7" value="25"/>
+            <StringItem index="8" value="26"/>
+            <StringItem index="9" value="27"/>
+            <StringItem index="10" value="28"/>
+            <StringItem index="11" value="29"/>
+            <StringItem index="12" value="30"/>
+            <StringItem index="13" value="31"/>
+            <StringItem index="14" value="32"/>
+            <StringItem index="15" value="33"/>
+            <StringItem index="16" value="34"/>
+            <StringItem index="17" value="35"/>
+            <StringItem index="18" value="36"/>
+            <StringItem index="19" value="37"/>
+            <StringItem index="20" value="38"/>
+            <StringItem index="21" value="39"/>
+            <StringItem index="22" value="40"/>
+            <StringItem index="23" value="41"/>
+            <StringItem index="24" value="42"/>
+            <StringItem index="25" value="43"/>
+            <StringItem index="26" value="44"/>
+            <StringItem index="27" value="45"/>
+            <StringItem index="28" value="46"/>
+            <StringItem index="29" value="47"/>
+            <StringItem index="30" value="48"/>
+            <StringItem index="31" value="49"/>
+            <StringItem index="32" value="50"/>
+            <StringItem index="33" value="51"/>
+            <StringItem index="34" value="52"/>
+            <StringItem index="35" value="53"/>
+            <StringItem index="36" value="54"/>
+            <StringItem index="37" value="55"/>
+            <StringItem index="38" value="56"/>
+            <StringItem index="39" value="57"/>
+            <StringItem index="40" value="58"/>
+            <StringItem index="41" value="59"/>
+            <StringItem index="42" value="60"/>
+            <StringItem index="43" value="61"/>
+            <StringItem index="44" value="62"/>
+            <StringItem index="45" value="63"/>
+            <StringItem index="46" value="64"/>
+            <StringItem index="47" value="65"/>
+            <StringItem index="48" value="66"/>
+            <StringItem index="49" value="67"/>
+            <StringItem index="50" value="68"/>
+            <StringItem index="51" value="69"/>
+            <StringItem index="52" value="70"/>
+            <StringItem index="53" value="71"/>
+            <StringItem index="54" value="72"/>
+            <StringItem index="55" value="73"/>
+            <StringItem index="56" value="74"/>
+            <StringItem index="57" value="75"/>
+            <StringItem index="58" value="76"/>
+            <StringItem index="59" value="77"/>
+            <StringItem index="60" value="78"/>
+            <StringItem index="61" value="79"/>
+            <StringItem index="62" value="80"/>
+            <StringItem index="63" value="81"/>
+            <StringItem index="64" value="82"/>
+            <StringItem index="65" value="83"/>
+            <StringItem index="66" value="84"/>
+            <StringItem index="67" value="85"/>
+            <StringItem index="68" value="86"/>
+            <StringItem index="69" value="87"/>
+            <StringItem index="70" value="88"/>
+            <StringItem index="71" value="89"/>
+            <StringItem index="72" value="90"/>
+            <StringItem index="73" value="91"/>
+            <StringItem index="74" value="92"/>
+            <StringItem index="75" value="93"/>
+            <StringItem index="76" value="94"/>
+            <StringItem index="77" value="95"/>
+            <StringItem index="78" value="96"/>
+            <StringItem index="79" value="97"/>
+            <StringItem index="80" value="98"/>
+            <StringItem index="81" value="99"/>
+            <StringItem index="82" value="100"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
